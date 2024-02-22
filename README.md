@@ -7,6 +7,8 @@
 
 Starter (boilerplate) for all future projects.
 
+# Putting it All Together
+
 ## Why Does This Exist?
 * Don't start with nothing
 * Common boilerplate for web projects
